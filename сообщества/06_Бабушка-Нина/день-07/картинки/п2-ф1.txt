@@ -7,7 +7,7 @@
 ---
 
 ПРОМПТ:
-Square 1:1 composition. Открытая домашняя кулинарная тетрадь с чистыми страницами, карандаш, небольшая миска с яблоками и готовый кусочек пирога; рука в синем рукаве делает пометку, но текст не читается.
+Square 1:1 composition. На деревянном кухонном столе лежит закрытая однотонная кулинарная тетрадь без надписей на обложке, рядом карандаш, небольшая миска с яблоками и готовый кусочек пирога; в край кадра попала рука в синем рукаве. Без открытых страниц, бумаги и любых читаемых записей.
 Bold white Russian text on a semi-transparent dark background bar: "РЕЦЕПТ МОЖНО МЕНЯТЬ". Make the exact title fully legible; do not render quotation marks around it. No other text, writing, letters, logos, brands, or readable labels anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/0aa8322b217754d3a26be196cdf81d2ae4384838/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0/06_%D0%91%D0%B0%D0%B1%D1%83%D1%88%D0%BA%D0%B0-%D0%9D%D0%B8%D0%BD%D0%B0/%D0%BA%D0%B0%D0%BD%D0%BE%D0%BD/ref-a.png --cw 0 --ar 1:1 --v 6.0
