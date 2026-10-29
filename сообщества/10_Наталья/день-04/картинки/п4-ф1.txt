@@ -7,7 +7,7 @@
 ---
 
 ПРОМПТ:
-Square 1:1 composition. Nataliya seated at a kitchen table beside a large plain window, holding an unmarked mug while a gray-brown cat rests on the wide windowsill; olive cardigan, quiet rainy afternoon light and uncluttered wall.
+Square 1:1 composition. Nataliya is seated in the upper-right portion of the frame at a kitchen table beside a large plain window; a gray-brown cat rests on the wide windowsill to the left. She holds an unmarked mug and wears an olive cardigan; quiet rainy afternoon light and uncluttered wall. Leave a clear band of plain table across the bottom 20 percent of the image; place the single headline bar only in this bottom band so neither Nataliya nor the cat is covered.
 Bold white Russian text on one semi-transparent dark background bar: "КОТ И ОКНО". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
