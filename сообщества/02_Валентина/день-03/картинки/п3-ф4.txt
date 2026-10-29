@@ -1,0 +1,13 @@
+ПОСТ: 3
+ФОТО: 4
+ТИП: рядовое фото карусели
+ТЕКСТ НА КАРТИНКЕ: «ДВАДЦАТЬ МИНУТ — И ГОТОВО»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Готовый свежий салат из огурцов и помидоров на простой тарелке рядом с молодой картошкой; деревянная веранда, естественный свет и несколько крошек на столе.
+Bold white Russian text on a semi-transparent dark background bar: "ДВАДЦАТЬ МИНУТ — И ГОТОВО".
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/dae148eb71a1aa72764e3ca375ab889135857ff4/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0/02_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0/%D0%BA%D0%B0%D0%BD%D0%BE%D0%BD/ref-a.png --cw 0 --ar 1:1 --v 6.0
