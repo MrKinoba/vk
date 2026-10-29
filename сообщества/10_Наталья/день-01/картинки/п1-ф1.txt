@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «МНЕ 42. И Я НЕ СПЕШУ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Nataliya stands in a modest community arts-center hallway beside a small stack of folding chairs, holding a plain key ring and a blank schedule sheet turned away from camera; muted blue knit top and soft olive cardigan; calm morning window light; no readable notices.
+Bold white Russian text on one semi-transparent dark background bar: "МНЕ 42. И Я НЕ СПЕШУ". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

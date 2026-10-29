@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ДОМА СТАЛО ЧУТЬ ГРОМЧЕ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A relaxed family kitchen moment: Nataliya sets three plain cups on a small table while her adult daughter places a simple tote by a chair and her husband reaches for a teapot; gray-brown cat near the chair; cozy natural late-afternoon light, ordinary apartment.
+Bold white Russian text on one semi-transparent dark background bar: "ДОМА СТАЛО ЧУТЬ ГРОМЧЕ". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

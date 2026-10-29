@@ -1,0 +1,13 @@
+ПОСТ: 4
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ВЕРИН ВЕЧЕР БЕЗ ПЛАНА»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Nataliya sitting at the kitchen table holding a phone with its screen turned away, a plain tote bag near the doorway and a bowl of soup on the table; gray-brown cat beside the chair; warm evening light and uncluttered home.
+Bold white Russian text on one semi-transparent dark background bar: "ВЕРИН ВЕЧЕР БЕЗ ПЛАНА". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

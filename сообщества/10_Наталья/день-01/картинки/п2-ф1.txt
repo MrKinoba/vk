@@ -1,0 +1,13 @@
+ПОСТ: 2
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «СЕГОДНЯ ПРОСТО ПЛАВАЮ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Nataliya at home beside a chair, folding a plain swim towel next to an unbranded swim bag and simple goggles; muted blue knit top and soft olive cardigan; gentle morning window light.
+Bold white Russian text on one semi-transparent dark background bar: "СЕГОДНЯ ПРОСТО ПЛАВАЮ". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

@@ -1,0 +1,13 @@
+ПОСТ: 3
+ФОТО: 3
+ТИП: фото карусели
+ТЕКСТ НА КАРТИНКЕ: «ЯЙЦО И НЕМНОГО ЗЕЛЕНИ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. An egg cooking in the center of a tomato-and-white-bean skillet, a few green herbs nearby, close-up natural home cooking; no labels.
+Bold white Russian text on one semi-transparent dark background bar: "ЯЙЦО И НЕМНОГО ЗЕЛЕНИ". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

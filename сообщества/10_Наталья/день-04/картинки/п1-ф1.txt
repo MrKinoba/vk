@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «РАЗМЕР — ЭТО ПРО РАЗМЕР»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Nataliya in a small fitting room holding a comfortable dark pair of trousers on a hanger while choosing a different size; ordinary neutral casual outfit, no labels on clothing, plain mirror and gentle shop light; candid composition.
+Bold white Russian text on one semi-transparent dark background bar: "РАЗМЕР — ЭТО ПРО РАЗМЕР". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

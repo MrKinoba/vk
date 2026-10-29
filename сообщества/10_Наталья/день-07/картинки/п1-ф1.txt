@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «Я НЕ ГЕРОИНЯ БАССЕЙНА»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Nataliya in an ordinary pool changing area after swimming, drying her hair with a plain towel beside a simple swim bag; modest dark athletic layers, bench and tiled wall, no logos or signs; soft indoor light.
+Bold white Russian text on one semi-transparent dark background bar: "Я НЕ ГЕРОИНЯ БАССЕЙНА". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

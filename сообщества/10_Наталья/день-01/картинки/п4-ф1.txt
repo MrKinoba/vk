@@ -1,0 +1,13 @@
+ПОСТ: 4
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «МОЖНО НЕ ЗНАТЬ ОТВЕТ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Nataliya seated at a simple desk in the community arts center, one hand around a plain ceramic mug, blank paper turned away from camera and key ring nearby; muted blue knit top and soft olive cardigan; quiet afternoon window light.
+Bold white Russian text on one semi-transparent dark background bar: "МОЖНО НЕ ЗНАТЬ ОТВЕТ". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/69a8ad815c6cffd9e6b262e42023082559b2299c/сообщества/10_Наталья/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
