@@ -8,6 +8,6 @@
 
 ПРОМПТ:
 Square 1:1 composition. A small plate of golden cottage-cheese flatbreads with a little sour cream in a plain bowl and an unmarked tea cup on a home kitchen table. No people, no hands, no arms; soft daylight, inviting but ordinary.
-Bold white Russian text on one semi-transparent dark background bar: "ГОТОВО К ЧАЮ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Bold white Russian text on one semi-transparent dark background bar: "ГОТОВО К ЧАЮ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

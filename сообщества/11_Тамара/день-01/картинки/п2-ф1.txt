@@ -8,6 +8,6 @@
 
 ПРОМПТ:
 Square 1:1 composition. Tamara stands beside a domestic sewing machine and a neatly folded dark-green jacket in a small alterations atelier, wearing a plain gray-blue work apron over a simple blouse. Single person, waist-up, hands outside the frame; spools and fabric in the background, no readable signs or labels, soft window daylight.
-Bold white Russian text on one semi-transparent dark background bar: "НЕ ВСЯКОЙ ПОМОЩИ НУЖЕН СОВЕТ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Bold white Russian text on one semi-transparent dark background bar: "НЕ ВСЯКОЙ ПОМОЩИ НУЖЕН СОВЕТ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

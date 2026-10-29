@@ -8,6 +8,6 @@
 
 ПРОМПТ:
 Square 1:1 composition. Tamara walks alone along the Samara Volga embankment in a comfortable sand-colored jacket with a plain fabric tote; candid view from slightly behind, hands relaxed and not prominent, overcast river light, no crowd or readable signs.
-Bold white Russian text on one semi-transparent dark background bar: "ВОСКРЕСЕНЬЕ МОЖЕТ БЫТЬ МОИМ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Bold white Russian text on one semi-transparent dark background bar: "ВОСКРЕСЕНЬЕ МОЖЕТ БЫТЬ МОИМ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

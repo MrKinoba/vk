@@ -8,7 +8,7 @@
 
 ПРОМПТ:
 Square 1:1 composition. Still life of a few ripe apples, eggs, flour in a plain ceramic bowl, sugar and a simple baking dish arranged on a clean wooden kitchen table. No people, no hands, no arms; soft natural daylight.
-Bold white Russian text on one semi-transparent dark background bar: "ШАРЛОТКА ИЗ МЯГКИХ ЯБЛОК". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Bold white Russian text on one semi-transparent dark background bar: "ШАРЛОТКА ИЗ МЯГКИХ ЯБЛОК". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
 Add one small, distinct badge in the bottom-right corner reading exactly: ЛИСТАЙ →. No other badges.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

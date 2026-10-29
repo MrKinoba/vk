@@ -8,6 +8,6 @@
 
 ПРОМПТ:
 Square 1:1 composition. Several small portions of soft cottage-cheese dough resting on a lightly floured wooden board, with a plain ceramic bowl nearby. No people, no hands, no arms; close realistic food photograph in gentle daylight.
-Bold white Russian text on one semi-transparent dark background bar: "МЯГКОЕ ТЕСТО ДЛЯ ЛЕПЁШЕК". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Bold white Russian text on one semi-transparent dark background bar: "МЯГКОЕ ТЕСТО ДЛЯ ЛЕПЁШЕК". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
