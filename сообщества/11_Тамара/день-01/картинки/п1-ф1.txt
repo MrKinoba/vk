@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «Я ТАМАРА. И Я МАМА ТВОЕГО МУЖА»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Tamara sits at a modest kitchen table beside a window, wearing a muted teal-blue knit cardigan over a cream blouse; a plain unmarked mug rests on the table and a gray cat is curled on a chair nearby. Waist-up candid composition, her hands relaxed outside the frame, lived-in Samara apartment, soft morning daylight.
+Bold white Russian text on one semi-transparent dark background bar: "Я ТАМАРА. И Я МАМА ТВОЕГО МУЖА". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

@@ -1,0 +1,13 @@
+ПОСТ: 3
+ФОТО: 2
+ТИП: фото карусели
+ТЕКСТ НА КАРТИНКЕ: «ТВОРОГ, ЯЙЦО И НЕМНОГО МУКИ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Close still life of cottage cheese, a cracked egg in a small bowl, flour and a plain mixing bowl on a kitchen counter; an unmarked spoon rests beside them. No people, no hands, no arms; soft natural daylight.
+Bold white Russian text on one semi-transparent dark background bar: "ТВОРОГ, ЯЙЦО И НЕМНОГО МУКИ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

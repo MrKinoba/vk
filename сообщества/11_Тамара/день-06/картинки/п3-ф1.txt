@@ -1,0 +1,14 @@
+ПОСТ: 3
+ФОТО: 1
+ТИП: первое фото карусели
+ТЕКСТ НА КАРТИНКЕ: «КАБАЧКОВАЯ ЗАПЕКАНКА С СЫРОМ»
+ЛИСТАЙ: да
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Still life of one zucchini, eggs, sour cream, grated cheese and a plain baking dish arranged on a wooden kitchen counter. No people, no hands, no arms; natural daylight, no packages or labels.
+Bold white Russian text on one semi-transparent dark background bar: "КАБАЧКОВАЯ ЗАПЕКАНКА С СЫРОМ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Add one small, distinct badge in the bottom-right corner reading exactly: ЛИСТАЙ →. No other badges.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

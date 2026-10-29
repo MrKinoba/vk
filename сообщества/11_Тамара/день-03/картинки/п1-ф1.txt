@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «РЕЦЕПТ МОЖНО ПРОСТО ОСТАВИТЬ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A worn blank recipe notebook with faint oil marks, closed beside a folded piece of fabric and a plain mug on a kitchen table; Tamara in a muted cardigan is softly visible in the background. No readable writing, no hands, natural light, modest apartment.
+Bold white Russian text on one semi-transparent dark background bar: "РЕЦЕПТ МОЖНО ПРОСТО ОСТАВИТЬ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

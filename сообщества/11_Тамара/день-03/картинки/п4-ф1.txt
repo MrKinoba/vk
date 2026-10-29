@@ -1,0 +1,13 @@
+ПОСТ: 4
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «НЕ СЧИТАТЬ ЗАБОТУ ПО ПУНКТАМ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Tamara in a gray-blue atelier apron sits near a sewing table with a repaired coat folded neatly beside a spool of thread; hands outside the frame, only one person, modest workroom with soft daylight and no readable signs.
+Bold white Russian text on one semi-transparent dark background bar: "НЕ СЧИТАТЬ ЗАБОТУ ПО ПУНКТАМ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

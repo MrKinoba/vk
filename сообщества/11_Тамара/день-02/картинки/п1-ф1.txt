@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ПАУЗА — ЕЩЁ НЕ ОТВЕТ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Tamara sits by a city bus window with a plain fabric tote on her lap, wearing a sand-colored everyday jacket; rainy Samara streets pass outside without readable signs. One person, candid side view, hands outside the frame, soft overcast daylight.
+Bold white Russian text on one semi-transparent dark background bar: "ПАУЗА — ЕЩЁ НЕ ОТВЕТ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

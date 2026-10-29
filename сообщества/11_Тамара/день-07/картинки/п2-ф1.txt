@@ -1,0 +1,13 @@
+ПОСТ: 2
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «РОЛЬ — ЭТО НЕ ВСЯ Я»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Tamara stands in a small alterations atelier among folded fabrics and a sewing machine, wearing a simple gray-blue work apron; waist-up candid portrait, hands outside the frame, no other people or readable signs, natural daylight.
+Bold white Russian text on one semi-transparent dark background bar: "РОЛЬ — ЭТО НЕ ВСЯ Я". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

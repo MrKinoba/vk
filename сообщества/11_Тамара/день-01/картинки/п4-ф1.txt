@@ -1,0 +1,13 @@
+ПОСТ: 4
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «СНАЧАЛА СПРОСИТЬ — ПОТОМ НЕСТИ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Tamara sits beside a kitchen table with a covered food container and a plain phone turned away so its screen cannot be read; she wears a muted teal-blue cardigan, hands outside the frame. Quiet Samara apartment, natural late-afternoon light, no other people.
+Bold white Russian text on one semi-transparent dark background bar: "СНАЧАЛА СПРОСИТЬ — ПОТОМ НЕСТИ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space and do not cover the main subject or key ingredients. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/b8fd24d/сообщества/11_Тамара/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
