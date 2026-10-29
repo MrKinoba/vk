@@ -1,0 +1,7 @@
+Prompt — day 03, post 3, photo 3 (carousel frame).
+Photorealistic square 1:1 image. A golden slice of cottage-cheese casserole with berries on a simple white plate beside a plain tea cup, modest home table and soft daylight, no people or hands.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «ГОТОВО К ЧАЮ». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
+Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
+No other words, symbols, logos or watermark; no extra printed text or labels.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/6a1969a94b73ab676d8df6344303d3091182983d/сообщества/18_Людмила/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

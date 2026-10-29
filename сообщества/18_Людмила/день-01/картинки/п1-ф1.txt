@@ -1,0 +1,8 @@
+Prompt — day 01, post 1, photo 1 (single image).
+Photorealistic square 1:1 image. A candid everyday portrait of the same woman from the supplied Ref-A identity image, wearing a muted berry-plum knit cardigan over a warm cream blouse, seated at a modest kitchen table near a window with a small bowl of blackcurrants and one plain tea cup. Relaxed posture, soft natural daylight, lived-in Saratov apartment background, no other people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «ЯГОДНОЕ ЛЕТО В САРАТОВЕ». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
+Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
+No other words, symbols, logos or watermark; no extra printed text or labels.
+Use the supplied Ref-A image as the direct visual identity reference for the same woman; pass the reference image to the image generator and preserve her identity. Do not describe or redesign her face; follow the supplied visual reference only.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/6a1969a94b73ab676d8df6344303d3091182983d/сообщества/18_Людмила/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
