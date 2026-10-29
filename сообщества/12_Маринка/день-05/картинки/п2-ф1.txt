@@ -1,0 +1,13 @@
+ПОСТ: 2
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ПЯТНАДЦАТЬ МИНУТ НА ОБЕД»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A simple cafe table by a window with two plain bowls of soup and two unmarked tea mugs, a folded napkin, no people, no hands, no readable signs, soft midday light.
+Bold white Russian text on one semi-transparent dark background bar: "ПЯТНАДЦАТЬ МИНУТ НА ОБЕД". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/c78f7e7/сообщества/12_Маринка/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

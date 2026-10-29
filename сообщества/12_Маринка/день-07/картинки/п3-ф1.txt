@@ -1,0 +1,14 @@
+ПОСТ: 3
+ФОТО: 1
+ТИП: первое фото карусели
+ТЕКСТ НА КАРТИНКЕ: «ТВОРОЖНАЯ ЗАПЕКАНКА С ЯБЛОКОМ»
+ЛИСТАЙ: да
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Ingredients for cottage-cheese apple bake on a kitchen counter: plain bowl of cottage cheese, one apple, two eggs, small baking dish and a little bowl of semolina, no people, no hands, no arms, natural daylight.
+Bold white Russian text on one semi-transparent dark background bar: "ТВОРОЖНАЯ ЗАПЕКАНКА С ЯБЛОКОМ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Add one small, distinct badge in the bottom-right corner reading exactly: ЛИСТАЙ →. No other badges.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/c78f7e7/сообщества/12_Маринка/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

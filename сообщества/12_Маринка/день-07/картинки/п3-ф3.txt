@@ -1,0 +1,13 @@
+ПОСТ: 3
+ФОТО: 3
+ТИП: фото карусели
+ТЕКСТ НА КАРТИНКЕ: «ТЁПЛЫЙ КУСОЧЕК К ЗАВТРАКУ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A warm square slice of golden cottage-cheese apple bake on a plain plate with a little sour cream and a few apple slices, no people, no hands, no arms, soft morning daylight.
+Bold white Russian text on one semi-transparent dark background bar: "ТЁПЛЫЙ КУСОЧЕК К ЗАВТРАКУ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/c78f7e7/сообщества/12_Маринка/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

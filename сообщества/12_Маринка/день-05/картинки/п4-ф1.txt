@@ -1,0 +1,14 @@
+ПОСТ: 4
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «Я СЛУШАЮ, А НЕ ПРОВЕРЯЮ»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Marinka sits at a kitchen table with her phone turned screen-down, listening toward someone just off-camera; muted mustard cardigan, hands outside the frame, calm lived-in home light, only one person visible.
+Use the supplied canonical Ref-A image as a strict identity reference for Marinka; depict the same woman rather than a new person, varying only clothing, pose, action, environment, and light.
+Bold white Russian text on one semi-transparent dark background bar: "Я СЛУШАЮ, А НЕ ПРОВЕРЯЮ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/c78f7e7/сообщества/12_Маринка/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

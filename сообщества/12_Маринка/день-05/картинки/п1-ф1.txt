@@ -1,0 +1,13 @@
+ПОСТ: 1
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ПОМОЩЬ НАЧИНАЕТСЯ С ВОПРОСА»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A small cloth grocery tote on a kitchen table with a loaf of bread, a plain tea box without a label and an unmarked jar of peas; a phone turned away nearby, no people, no hands, no readable text.
+Bold white Russian text on one semi-transparent dark background bar: "ПОМОЩЬ НАЧИНАЕТСЯ С ВОПРОСА". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/c78f7e7/сообщества/12_Маринка/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

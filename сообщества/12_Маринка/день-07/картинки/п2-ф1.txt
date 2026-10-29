@@ -1,0 +1,14 @@
+ПОСТ: 2
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «СЕГОДНЯ НЕ УСПЕЮ — ДАВАЙ ЗАВТРА»
+ЛИСТАЙ: нет
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Marinka sits at a small kitchen table with a neutral phone turned away and a plain cloth tote nearby, muted mustard cardigan, relaxed evening posture, no readable screen, one adult person only.
+Use the supplied canonical Ref-A image as a strict identity reference for Marinka; depict the same woman rather than a new person, varying only clothing, pose, action, environment, and light.
+Bold white Russian text on one semi-transparent dark background bar: "СЕГОДНЯ НЕ УСПЕЮ — ДАВАЙ ЗАВТРА". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/c78f7e7/сообщества/12_Маринка/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
