@@ -7,7 +7,7 @@
 ---
 
 ПРОМПТ:
-Square 1:1 composition. Vika adding dark denim jeans to a simple sage-and-cream outfit, shown beside a full-length mirror with practical shoes nearby; modest apartment, soft daylight.
-Bold white Russian text on a semi-transparent dark background bar: "ДОБАВИТЬ ДЕНИМ". Make the exact title fully legible; do not render quotation marks around it. No other text, writing, letters, logos, brands, or readable labels anywhere in the image.
+Square 1:1 composition. A single candid waist-to-knee view of Vika in a cream top and muted sage jacket with dark denim jeans, standing beside a full-length mirror and checking the jeans at the waistband; modest apartment, soft daylight.
+Bold white Russian text on one semi-transparent dark background bar: "ДОБАВИТЬ ДЕНИМ". Render this exact title one time only; do not duplicate or repeat any words or the title elsewhere. No other text, writing, letters, logos, brands, or readable labels anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/02bb7bcf70e9f65a3a4834dbea2096b82f8d42de/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0/07_%D0%92%D0%B8%D0%BA%D0%B0/%D0%BA%D0%B0%D0%BD%D0%BE%D0%BD/ref-a.png --cw 0 --ar 1:1 --v 6.0
