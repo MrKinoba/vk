@@ -7,7 +7,7 @@
 ---
 
 ПРОМПТ:
-Square 1:1 composition. Ksyusha sits beside a window in her modest apartment with a gray cat curled on the sill, a plain mug in her hands, calm evening light, candid and authentic.
+Square 1:1 composition. Ksyusha sits beside a large window against a plain uncluttered wall, holding a plain mug; a gray cat is curled on the wide windowsill. No shelves, books, framed pictures, or printed objects in the background. Calm evening light, candid and authentic.
 Bold white Russian text on one semi-transparent dark background bar: "МОЁ СЧАСТЬЕ СЕЙЧАС ТИХОЕ". Render this exact title one time only; do not duplicate or repeat any words. No other text, writing, letters, numbers, logos, brands, signs, tags, or readable labels anywhere in the image.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 --cref https://raw.githubusercontent.com/MrKinoba/vk/297d8e497df276ff6a823162fb7abfab17c9f50b/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0/09_%D0%9A%D1%81%D1%8E%D1%88%D0%B0/%D0%BA%D0%B0%D0%BD%D0%BE%D0%BD/ref-a.png --cw 0 --ar 1:1 --v 6.0
