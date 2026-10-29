@@ -1,0 +1,14 @@
+ПОСТ: 2
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ОБЕД ПЕРЕЕХАЛ НА ПОЗЖЕ»
+ЛИСТАЙ: нет
+ВИЗУАЛЬНЫЙ Ref-A ВХОД: нет — натюрморт или сцена без героини.
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A closed lunch container with buckwheat and vegetables, one apple and a phone turned screen-down on a small staff-room table, no people, no hands, no readable screen or labels.
+Bold white Russian text on one semi-transparent dark background bar: "ОБЕД ПЕРЕЕХАЛ НА ПОЗЖЕ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/32d032a3e82b0811194b1aa7c574e0aa0c4fa399/сообщества/13_Лена/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

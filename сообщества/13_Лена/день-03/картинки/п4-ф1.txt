@@ -1,0 +1,15 @@
+ПОСТ: 4
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «НОВОЕ НЕ СРАЗУ СВОЁ»
+ЛИСТАЙ: нет
+ВИЗУАЛЬНЫЙ Ref-A ВХОД: да — приложить канонический Ref-A как входное изображение; не описывать лицо, менять только одежду, позу, действие, окружение и свет.
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Lena sitting by a home window with a plain cup of tea and an open paperback, muted beige cardigan, relaxed candid posture, softly overcast daylight, no visible writing on the book cover.
+Use the supplied canonical Ref-A image as a strict identity reference for Lena; depict the same woman rather than a new person, varying only clothing, pose, action, environment, and light. Do not describe or alter facial features.
+Bold white Russian text on one semi-transparent dark background bar: "НОВОЕ НЕ СРАЗУ СВОЁ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/32d032a3e82b0811194b1aa7c574e0aa0c4fa399/сообщества/13_Лена/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

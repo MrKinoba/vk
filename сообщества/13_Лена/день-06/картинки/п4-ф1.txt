@@ -1,0 +1,15 @@
+ПОСТ: 4
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «РЫНОК БЕЗ ДЛИННОГО СПИСКА»
+ЛИСТАЙ: нет
+ВИЗУАЛЬНЫЙ Ref-A ВХОД: да — приложить канонический Ref-A как входное изображение; не описывать лицо, менять только одежду, позу, действие, окружение и свет.
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. Lena standing beside a small Samara vegetable-market stall with a plain fabric tote holding a few vegetables, practical light jacket, candid side view, natural daytime light, no crowd, no readable signs or labels.
+Use the supplied canonical Ref-A image as a strict identity reference for Lena; depict the same woman rather than a new person, varying only clothing, pose, action, environment, and light. Do not describe or alter facial features.
+Bold white Russian text on one semi-transparent dark background bar: "РЫНОК БЕЗ ДЛИННОГО СПИСКА". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/32d032a3e82b0811194b1aa7c574e0aa0c4fa399/сообщества/13_Лена/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

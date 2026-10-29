@@ -1,0 +1,14 @@
+ПОСТ: 2
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ВСТРЕЧУ ПЕРЕНЕСЛИ»
+ЛИСТАЙ: нет
+ВИЗУАЛЬНЫЙ Ref-A ВХОД: нет — натюрморт или сцена без героини.
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A phone turned screen-down beside a set of keys and a plain tea mug on a modest kitchen table, a coat hanging in the blurred entryway, no people, no readable screen or writing.
+Bold white Russian text on one semi-transparent dark background bar: "ВСТРЕЧУ ПЕРЕНЕСЛИ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/32d032a3e82b0811194b1aa7c574e0aa0c4fa399/сообщества/13_Лена/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

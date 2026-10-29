@@ -1,0 +1,14 @@
+ПОСТ: 2
+ФОТО: 1
+ТИП: одиночное фото
+ТЕКСТ НА КАРТИНКЕ: «ЗЕЛЕНЬ НА ПРОБУ»
+ЛИСТАЙ: нет
+ВИЗУАЛЬНЫЙ Ref-A ВХОД: нет — натюрморт или сцена без героини.
+
+---
+
+ПРОМПТ:
+Square 1:1 composition. A small bunch of dark green leafy chard on brown market paper beside a cucumber, radishes and a plain kitchen knife on a home counter, no people, no hands, no readable labels.
+Bold white Russian text on one semi-transparent dark background bar: "ЗЕЛЕНЬ НА ПРОБУ". Render this exact title one time only; do not duplicate or repeat any words. Keep the title in clear negative space, away from the main subject. No other text, writing, letters, numbers, logos, brands, signs, tags, labels, watermark, or readable writing anywhere in the image.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/32d032a3e82b0811194b1aa7c574e0aa0c4fa399/сообщества/13_Лена/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
