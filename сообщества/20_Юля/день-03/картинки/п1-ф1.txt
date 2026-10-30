@@ -1,0 +1,7 @@
+Prompt — day 03, post 1, photo 1 (single image).
+Photorealistic square 1:1 image. An old simple white saucer with a thin blue rim holds a few apple slices beside a plain tea mug and a small linen towel on a lived-in kitchen table. Soft nostalgic daylight, no people, no writing or labels.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian overlay title directly inside the image as part of the image design, letter-for-letter: «НЕ НА ПОТОМ». Use clear, correctly spelled uppercase Cyrillic integrated into open negative space and render it on a subtle semi-transparent underlay. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels or signage.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/3668b4c34fdf8778b52168ed30653025be0fce89/сообщества/20_Юля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

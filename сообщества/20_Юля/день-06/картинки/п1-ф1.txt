@@ -1,0 +1,7 @@
+Prompt — day 06, post 1, photo 1 (single image).
+Photorealistic square 1:1 image. A small slightly worn vintage tabletop radio with no visible brand on a kitchen shelf beside a plain ceramic mug, soft morning light and an ordinary lived-in apartment background, no people, no readable markings.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian overlay title directly inside the image as part of the image design, letter-for-letter: «МЕЛОДИЯ ИЗ ДОМА». Use clear, correctly spelled uppercase Cyrillic integrated into open negative space and render it on a subtle semi-transparent underlay. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels or signage.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/3668b4c34fdf8778b52168ed30653025be0fce89/сообщества/20_Юля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

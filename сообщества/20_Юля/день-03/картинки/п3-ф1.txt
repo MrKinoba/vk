@@ -1,0 +1,7 @@
+Prompt — day 03, post 3, photo 1 (carousel frame 1).
+Photorealistic square 1:1 image. A few freshly cooked golden cottage-cheese syrniki on a plain plate with a small spoonful of berry jam and sour cream, simple breakfast table, warm window light, no people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian overlay title directly inside the image as part of the image design, letter-for-letter: «СЫРНИКИ БЕЗ СПЕШКИ». Use clear, correctly spelled uppercase Cyrillic integrated into open negative space and render it on a subtle semi-transparent underlay. Keep all other scene details free of writing.
+This is the first photo of a carousel: also generate the exact badge «ЛИСТАЙ →» directly inside the image in the lower-right corner, clearly legible and fully inside the frame. The title and this badge are the only visible lettering; do not add any other arrows, pagination or interface elements.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels or signage.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/3668b4c34fdf8778b52168ed30653025be0fce89/сообщества/20_Юля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

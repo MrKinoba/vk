@@ -1,0 +1,7 @@
+Prompt — day 04, post 3, photo 3 (carousel frame 3).
+Photorealistic square 1:1 image. A warm slice of homemade cabbage pie on a plain plate beside a small cup of tea, a few crumbs on the table, quiet lived-in kitchen, gentle daylight, no people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian overlay title directly inside the image as part of the image design, letter-for-letter: «К ЧАЮ ИЛИ УЖИНУ». Use clear, correctly spelled uppercase Cyrillic integrated into open negative space and render it on a subtle semi-transparent underlay. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels or signage.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/3668b4c34fdf8778b52168ed30653025be0fce89/сообщества/20_Юля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

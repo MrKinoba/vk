@@ -1,0 +1,7 @@
+Prompt — day 01, post 3, photo 2 (carousel frame 2).
+Photorealistic square 1:1 image. Two fresh apples and a clear bowl of sliced apples beside a plain glass of kefir, two eggs in a small unmarked bowl and a little flour in a simple dish on an ordinary kitchen counter. Natural daylight, tidy but lived-in, no packaging, no people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian overlay title directly inside the image as part of the image design, letter-for-letter: «ЯБЛОКИ И ТЕСТО». Use clear, correctly spelled uppercase Cyrillic integrated into open negative space and render it on a subtle semi-transparent underlay. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels or signage.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/3668b4c34fdf8778b52168ed30653025be0fce89/сообщества/20_Юля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
