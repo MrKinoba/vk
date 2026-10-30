@@ -1,0 +1,7 @@
+Prompt — day 01, post 3, photo 3 (carousel frame).
+Photorealistic square 1:1 image. A wooden spoon resting in a bowl of thick cottage-cheese mixture with apple pieces and semolina visibly folded in, simple lived-in kitchen counter, no people or hands.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «СМЕШАТЬ БЕЗ МИКСЕРА». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
+Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
+No other words, symbols, logos or watermark; no extra printed text or labels.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/871f70189d41de8f806c1a23b48bba16049c4264/сообщества/19_Оля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

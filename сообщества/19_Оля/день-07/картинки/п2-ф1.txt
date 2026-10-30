@@ -1,0 +1,7 @@
+Prompt — day 07, post 2, photo 1 (single image).
+Photorealistic square 1:1 image. A folded muted red cotton hoodie on the back of an ordinary chair, a phone lying face down on a small table nearby, quiet evening apartment light, no people or visible text.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «НЕ ВСЕГДА СРАЗУ». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
+Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
+No other words, symbols, logos or watermark; no extra printed text or labels.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/871f70189d41de8f806c1a23b48bba16049c4264/сообщества/19_Оля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

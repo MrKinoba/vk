@@ -1,0 +1,8 @@
+Prompt — day 01, post 1, photo 1 (single image).
+Photorealistic square 1:1 image. A candid waist-up everyday portrait of the same woman from the supplied Ref-A identity image, seated at a modest kitchen table wearing a muted dusty-blue cotton cardigan over an oatmeal-colored T-shirt. One plain ceramic mug and a closed lunchbox on the table, lived-in Kazan apartment kitchen softly blurred behind her, relaxed posture, soft morning window light, no other people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «БЕЗ ИДЕАЛЬНОГО КАДРА». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
+Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
+No other words, symbols, logos or watermark; no extra printed text or labels.
+Use the supplied Ref-A image as the direct visual identity reference for the same woman; pass the reference image to the image generator and preserve her identity. Do not describe or redesign her face; follow the supplied visual reference only.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/871f70189d41de8f806c1a23b48bba16049c4264/сообщества/19_Оля/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
