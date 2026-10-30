@@ -1,0 +1,7 @@
+Prompt — day 07, post 4, photo 1 (single image).
+Photorealistic square 1:1 image. Zhanna, the same naturally plus-size adult woman shown in the supplied Ref-A image; use Ref-A as the direct visual identity reference and preserve her recognizable identity without describing or redesigning her face. She wears a comfortable vivid red day dress and simple flat shoes, standing naturally by a kitchen window with one hand resting on a chair back and the other relaxed at her side. A plain everyday bag and keys sit nearby. Modest lived-in Samara apartment, calm family-home details, soft evening window light, no other people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian uppercase overlay title directly inside the image, letter-for-letter: «НАДЕЛА И ПОШЛА». Use clear correctly spelled Cyrillic on a subtle semi-transparent backing, integrated into open negative space. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements. The title is the only visible lettering.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels, packaging text or signage anywhere.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/4b66039a79fe31b82737330aa1629809ed41311b/сообщества/21_Жанна/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

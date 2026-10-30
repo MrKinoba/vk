@@ -1,0 +1,7 @@
+Prompt — day 02, post 3, photo 3 (carousel frame 3).
+Photorealistic square 1:1 image. A warm neat slice of cottage-cheese casserole on a plain plate with a simple teaspoon and a small spoonful of sour cream, cozy natural light, no jars, packaging or people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian uppercase overlay title directly inside the image, letter-for-letter: «РУМЯНЫЙ КУСОЧЕК». Use clear correctly spelled Cyrillic on a subtle semi-transparent backing, integrated into open negative space. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements. The title is the only visible lettering.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels, packaging text or signage anywhere.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/4b66039a79fe31b82737330aa1629809ed41311b/сообщества/21_Жанна/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

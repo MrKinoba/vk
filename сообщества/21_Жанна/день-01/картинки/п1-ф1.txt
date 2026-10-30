@@ -1,0 +1,7 @@
+Prompt — day 01, post 1, photo 1 (single image).
+Photorealistic square 1:1 image. Zhanna, the same naturally plus-size adult woman shown in the supplied Ref-A image; use Ref-A as the direct visual identity reference and preserve her recognizable identity without describing or redesigning her face. She wears a vivid raspberry cardigan over her simple plum-purple knit top and sits at a modest kitchen table by a window, holding one plain ceramic mug gently in both hands. A tabby cat rests on a chair in the softly blurred background. Relaxed everyday posture, warm natural morning light, lived-in Samara apartment, no other people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian uppercase overlay title directly inside the image, letter-for-letter: «МНЕ И ТАК МОЖНО». Use clear correctly spelled Cyrillic on a subtle semi-transparent backing, integrated into open negative space. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements. The title is the only visible lettering.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels, packaging text or signage anywhere.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/4b66039a79fe31b82737330aa1629809ed41311b/сообщества/21_Жанна/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

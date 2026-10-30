@@ -1,0 +1,7 @@
+Prompt — day 07, post 3, photo 1 (carousel frame 1).
+Photorealistic square 1:1 image. Six small golden cottage-cheese muffins on a plain white plate, one broken open to show a soft crumb, cup of tea nearby, cozy Sunday kitchen light, no packaging or people.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian uppercase overlay title directly inside the image, letter-for-letter: «ТВОРОЖНЫЕ КЕКСЫ». Use clear correctly spelled Cyrillic on a subtle semi-transparent backing, integrated into open negative space. Keep all other scene details free of writing.
+This is the first photo of a carousel: include exactly one small, clearly legible badge in the lower-right corner with the precise content «ЛИСТАЙ →» — the single Cyrillic word followed by one simple right-pointing arrow glyph. The arrow must be the arrow symbol, not letters; no additional letters or words after it. The title and this badge are the only visible lettering.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels, packaging text or signage anywhere.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/4b66039a79fe31b82737330aa1629809ed41311b/сообщества/21_Жанна/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0

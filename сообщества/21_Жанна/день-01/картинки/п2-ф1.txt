@@ -1,0 +1,7 @@
+Prompt — day 01, post 2, photo 1 (single image).
+Photorealistic square 1:1 image. A bright teal scarf hanging on a simple wooden hook beside a plain key tray near an apartment doorway. Soft overcast daylight from a nearby window, a quiet lived-in home entry, no people, no visible writing or labels.
+Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
+Generate the exact Russian uppercase overlay title directly inside the image, letter-for-letter: «ЦВЕТ НА КАЖДЫЙ ДЕНЬ». Use clear correctly spelled Cyrillic on a subtle semi-transparent backing, integrated into open negative space. Keep all other scene details free of writing.
+Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements. The title is the only visible lettering.
+No other words, letters, numbers, logos, watermark, brand marks, readable labels, packaging text or signage anywhere.
+--cref https://raw.githubusercontent.com/MrKinoba/vk/4b66039a79fe31b82737330aa1629809ed41311b/сообщества/21_Жанна/канон/ref-a.png --cw 0 --ar 1:1 --v 6.0
