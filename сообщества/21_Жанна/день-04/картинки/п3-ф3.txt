@@ -1,5 +1,5 @@
 Prompt — day 04, post 3, photo 3 (carousel frame 3).
-Photorealistic square 1:1 image. A simple roasting tray with golden chicken pieces, potatoes and carrots just out of the oven on a plain trivet, steam faintly visible, cozy home kitchen, no labels or people.
+Photorealistic square 1:1 image. A simple roasting tray with golden chicken pieces, potatoes and carrots resting on a plain wooden trivet on a clean kitchen counter, faint steam visible. No oven or appliance in view, no controls or displays, no labels or people.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 Generate the exact Russian uppercase overlay title directly inside the image, letter-for-letter: «ПРОТИВЕНЬ И ДУХОВКА». Use clear correctly spelled Cyrillic on a subtle semi-transparent backing, integrated into open negative space. Keep all other scene details free of writing.
 Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements. The title is the only visible lettering.

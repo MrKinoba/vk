@@ -1,5 +1,5 @@
 Prompt — day 04, post 3, photo 2 (carousel frame 2).
-Photorealistic square 1:1 image. Large chunks of peeled potato and carrot with onion wedges on a plain wooden cutting board, one simple kitchen knife set safely beside them, no packaging, no people, bright natural light.
+Photorealistic square 1:1 image. Large chunks of peeled potato and carrot with onion wedges on a plain wooden cutting board, one simple unbranded wooden-handled kitchen knife set safely beside them, no writing or logo on the knife, no packaging, no people, bright natural light.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 Generate the exact Russian uppercase overlay title directly inside the image, letter-for-letter: «ОВОЩИ КРУПНО». Use clear correctly spelled Cyrillic on a subtle semi-transparent backing, integrated into open negative space. Keep all other scene details free of writing.
 Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements. The title is the only visible lettering.
