@@ -1,5 +1,5 @@
 Prompt — day 07, post 1, photo 1 (single image).
-Photorealistic square 1:1 image. A slightly busy but clean breakfast table with two plain mugs, a plate of apple pancakes, one folded dish towel, a few crumbs and a closed food container, gentle morning light, no people.
+Photorealistic square 1:1 image. A slightly busy but clean breakfast table with two plain mugs, a plate of apple pancakes, one folded dish towel, a few crumbs and a plain spoon, gentle morning light, no people, packages, containers, electronics, labels or writing.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «СНИМОК ДО УБОРКИ». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
 Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
