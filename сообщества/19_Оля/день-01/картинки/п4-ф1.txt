@@ -1,5 +1,5 @@
 Prompt — day 01, post 4, photo 1 (single image).
-Photorealistic square 1:1 image. A simple weeknight kitchen table with chopped tomatoes and cucumber on a wooden cutting board, two plain plates and a closed laptop set aside, relaxed warm evening light, no people or writing.
+Photorealistic square 1:1 image. A simple weeknight kitchen table with chopped tomatoes and cucumber on a wooden cutting board, two plain unmarked plates and a folded dish towel, relaxed warm evening light, no people or writing, no electronics or branded objects.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «ПОПРОСИТЬ О ЧАСТИ УЖИНА». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
 Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
