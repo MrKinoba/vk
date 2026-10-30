@@ -1,5 +1,5 @@
 Prompt — day 06, post 2, photo 1 (single image).
-Photorealistic square 1:1 image. A small espresso in a plain cup and a blank paper cinema ticket rest on a café table beside a window, modest neighborhood café with softly blurred indoor lights, no people, no logos or readable signs.
+Photorealistic square 1:1 image. A small espresso in a plain cup and one completely blank white paper cinema ticket rest on a café table beside a window. Compose this as a close still life; the softly blurred background consists only of a plain cream wall and warm window lights. No counter, doors, exit signs, posters, screens, signage, printed marks, labels, logos or other people anywhere.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 Generate the exact Russian overlay title directly inside the image as part of the image design, letter-for-letter: «НА ЧАС РАНЬШЕ». Use clear, correctly spelled uppercase Cyrillic integrated into open negative space and render it on a subtle semi-transparent underlay. Keep all other scene details free of writing.
 Do not add a carousel badge, arrows, arrow symbols, pagination or interface elements.
