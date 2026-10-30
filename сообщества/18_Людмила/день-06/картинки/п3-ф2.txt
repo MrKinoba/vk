@@ -1,5 +1,5 @@
 Prompt — day 06, post 3, photo 2 (carousel frame).
-Photorealistic square 1:1 image. A small saucepan of raspberries and blueberries gently warming into a glossy berry sauce, a plain spoon and a few fresh berries nearby, home kitchen counter, no people or hands.
+Photorealistic square 1:1 image. A small white bowl filled with cottage cheese beside a small saucepan of glossy raspberry-and-blueberry sauce, a plain spoon resting across the pan and a few fresh berries nearby, home kitchen counter, no people or hands.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «ТВОРОГ И ЯГОДЫ». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
 Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.

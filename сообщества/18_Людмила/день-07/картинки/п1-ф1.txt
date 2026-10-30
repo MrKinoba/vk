@@ -1,5 +1,5 @@
 Prompt — day 07, post 1, photo 1 (single image).
-Photorealistic square 1:1 image. Two pairs of gardening gloves and one partly filled blackcurrant basket on a simple dacha bench beside a small berry row, suggesting a shared harvest; soft late-afternoon light, no people or hands, no writing.
+Photorealistic square 1:1 image. Two pairs of plain unbranded fabric gardening gloves, completely blank with no printed markings or logos, beside one partly filled blackcurrant basket on a simple dacha bench by a small berry row, suggesting a shared harvest; soft late-afternoon light, no people or hands, no writing.
 Casual smartphone photo style, natural lighting, realistic, slightly imperfect, authentic.
 Generate the Russian overlay text directly inside the image as part of the image design, letter-for-letter, exactly: «ПОПРОСИЛА ПОМОЩЬ». Use clear, correctly spelled uppercase Cyrillic integrated neatly into open negative space; this exact title must be the only visible lettering. Render the title on a subtle semi-transparent underlay as part of the generated image.
 Do not add a carousel badge, arrows, arrow symbols, directional marks, pagination or interface elements.
